@@ -1,2 +1,2 @@
 # 2024_bjfu_java_Curriculum-design
-2024北林计科java课设
+2024北林计科java课设 实现一个全民聊天室
